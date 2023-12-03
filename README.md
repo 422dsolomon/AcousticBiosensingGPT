@@ -74,4 +74,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/422dsolomon/personal-portfolio/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/422dsolomon/AcousticBiosensingGPT/blob/main/LICENSE) file for details.
