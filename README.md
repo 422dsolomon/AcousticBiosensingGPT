@@ -20,4 +20,23 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-website.git
+   git clone https://github.com/422dsolomon/AcousticBiosensingGPT.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd AcousticBiosensingGPT
+
+3. Set OpenAI API Key:
+   
+   ```bash
+   export OPENAI_KEY="your-api-key"
+   
+4. Install required npm packages, OpenAI CLI and datalib:
+
+   ```bash
+   npm install openai
+   pip install --upgrade openai openai"[datalib]"
+
+
+
