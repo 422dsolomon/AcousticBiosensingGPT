@@ -38,5 +38,6 @@ Follow these instructions to get a copy of the project up and running on your lo
    npm install openai
    pip install --upgrade openai openai"[datalib]"
 
-
+5. Add/Adjust Training Data in 
+6. Initiate Fine Tuning Process
 
